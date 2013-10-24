@@ -1,8 +1,0 @@
-Added to localhost tflp on 2013-09-01
-
-voersion 0.2 changes.
-20130924
-case 3049 
-Change code to fetch photos from Titan instead of from Jumbo.
-
-Beanstalk commit 20131006
