@@ -1,0 +1,45 @@
+.listingwrapper {border: 1px solid #000; margin:0 0 10px 0;width:640px; padding:0;}
+.listingwrapper .listinghead { background-color:#610713; padding: 10px 14px 0; height: 57px; /*width:585px;*width:743px;width:612px;*/}
+.listingwrapper .listinghead {/* background: url("images/featured_head.gif") no-repeat;  ** 585x61px image size ** */ }
+.listingwrapper .listinghead .alright {float: right; text-align: right;}
+.listingwrapper .listinghead .alprice, .listingwrapper .listinghead .aladd1 {font:normal 19px arial,sans-serif; color: #fff;}
+.listingwrapper .listinghead .alstatus, .listingwrapper .listinghead .aladd2 {font:bold 14px arial,sans-serif;color: #fff;}
+.listingwrapper .listingbody { padding: 0 15px; font:normal 14px arial,sans-serif;}
+.listingwrapper {/* background: url("images/featured_back.gif") repeat-y ; ** 585px wide repeating image** */ }
+.listingwrapper .listingbody .althumbnail {float: left; height: 55px;}
+.listingwrapper .listingbody .althumbnail img {border: none; margin:4px 11px 0 0;}
+.listingwrapper .listingbody .lbleft { width:260px ; float: left;display:inline; margin-left: 45px;}
+.listingwrapper .listingbody .lbright { margin: 5px 5px 0 340px; padding-top: 15px;}
+.listingwrapper .listingbody .lbright .fldesclab { font-weight: bold;}
+.listingwrapper .listingbody .viewbut  {display: block; text-decoration: none; font-weight: bold; padding: 0 0 0 16px; margin: 0 0 0 15px; background:#610713; line-height:26px ; width:116px ; color: #fff; border: 1px solid #000;}
+.listingwrapper .listingbody .viewbut:hover {background: #FFF;color: #000;}
+.listingwrapper .listingbody .viewbut {/* background: url("images/ma/featured_but.gif") no-repeat ; ** 116x26px image ** */ }
+.listingwrapper .listingbody .lbleft ul {clear:left; padding-left: 0; margin: 10px 0 0 15px; font-weight: bold; }
+.listingwrapper .listingbody .lbleft ul li { clear:left;margin: 0; padding: 0.25em;}
+.listingwrapper .listingbody .lbleft ul li a {text-decoration: none; color:#555; font-weight: bold;}
+.listingwrapper .listingbody .lbleft ul li a:hover {color: #000;}
+.listingwrapper .listingbody table {font-weight: bold; margin-top: 10px;}
+.listingwrapper .listingbody table .fllab {padding-left: 10px;}
+.listingwrapper .listingfoot {clear: both;/* background: url("images/featured_foot.gif") no-repeat; ** 585x11px images size** */ height: 11px; width: 585px; }
+
+.listingwrapper .listingbody table  tbody tr td {color: #333;padding: 3px 5px;vertical-align: top;border: none;}
+
+.listingwrapper .listingbody .lbleft2 { width:260px ; float: left;display:inline; margin-left: 45px;}
+.listingwrapper .listingbody .lbright2 { margin: 5px 5px 0 340px; padding-top: 15px;}
+.listingwrapper .listingbody .lbright2 ul{ padding-left: 0; margin: 10px 0 0 15px; font-weight: bold;}
+.listingwrapper .listingbody .lbright2 li {margin: 0; padding: 0.25em;}
+.listingwrapper .listingbody .lbright2 ul li a {text-decoration: none; color:#555; font-weight: bold;}
+.listingwrapper .listingbody .lbright2 ul li a:hover {color: #000;}
+
+#appointment-forms5{width:600px;}
+#roomgrid .retsroomfloor {float:left;}
+#roomgrid .retsrooms{font-weight:bold;}
+#roomgrid .retsbedrooms{font-weight:normal;}
+#roomgrid .roomrows{border:1px solid #ccc;overflow: auto;}
+.alternate{background-color:#e0e0e0;}
+#roomgrid ul{list-style-type: none;}
+
+/*For Google Map Zoom Bar*/
+.entry-content img, .entry-summary img, .comment-content img, .widget img, .wp-caption {
+    max-width: none !important;
+
