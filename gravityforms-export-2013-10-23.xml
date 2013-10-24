@@ -20,6 +20,9 @@
 			<field id="5" size="medium" type="section" displayOnly="1">
 				<label><![CDATA[Property Listing Inquiry]]></label>
 			</field>
+			<field id="5" size="medium" type="section" displayOnly="1">
+				<label><![CDATA[Property Listing Inquiry]]></label>
+			</field>
 			<field id="1" isRequired="1" size="medium" type="name">
 				<label><![CDATA[Name]]></label>
 				<inputs>
